@@ -21,7 +21,7 @@
 ```
 git clone https://github.com/omerbt/Text2LIVE.git
 conda create --name text2live python=3.9 
-conda activate text2live 
+conda activate text2live && cd Text2LIVE
 pip install -r requirements.txt
 ```
 
